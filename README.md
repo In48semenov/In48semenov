@@ -1,5 +1,7 @@
-### Hi there 👋
+### Hi, I'm Andrey 👋
+**Contact me** [![Telegram](https://img.shields.io/badge/-Telegram-blue)](https://t.me/sandr_ml) 
 
+My [CV](https://github.com/In48semenov/CV/blob/main/README.md)
 <!--
 **In48semenov/In48semenov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
