@@ -1,5 +1,5 @@
 ### Hi, I'm Andrey 👋
-**Contact me**  [![Telegram](https://img.shields.io/badge/-Telegram-blue)](https://t.me/sandr_ml) 
+**Contact me**  [![Telegram](https://img.shields.io/badge/-Telegram-blue)](https://t.me/ml_andr) 
 
 My [CV](https://github.com/In48semenov/CV/blob/main/README.md)
 <!--
